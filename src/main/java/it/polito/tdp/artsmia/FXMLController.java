@@ -47,7 +47,8 @@ public class FXMLController {
     
     @FXML
     void doAnalizzaOggetti(ActionEvent event) {
-
+    		//qui devo creare il grafo...
+    	model.creaGrafo();
     }
 
     @FXML
